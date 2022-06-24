@@ -1,0 +1,31 @@
+span{
+    margin-left: 120px;
+}
+
+div{
+    border: 3px solid black;
+    padding: 12px;
+    margin: 150px 0 0 750px;
+    width: 300px;
+    height: 900px;
+}
+
+th{
+    text-align: left;
+    padding-right: 150px;
+}
+
+td{
+    text-align: left;
+}
+h3{
+    margin-left: 120px;
+}
+p{
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.text-margin-topB{
+    padding-top: 400px;
+}
